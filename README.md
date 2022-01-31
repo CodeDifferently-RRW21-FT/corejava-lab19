@@ -2,7 +2,6 @@
 
 * Part A - Foundations 8.1
 * Part B - Foundations 8.2
-* Part C - Instructor Challenge
 
 ## Part A
 
